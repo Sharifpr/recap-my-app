@@ -1,0 +1,21 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid gray;
+    padding-bottom: 8px;
+    
+}
+.product h3{
+    color: rgb(0, 89, 255);
+}
+.btn-style{
+    background-color: rgba(135, 165, 25, 0.781);
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px 40px;
+    font-size: 15px;
+   cursor: pointer;
+}
+
+.star-color{
+    color: rgb(176, 231, 46);
+}
